@@ -6,5 +6,6 @@ public class test2 {
 		System.out.print("hello from remote developperxxxxx");
 		int a =3;
 		int b =2;
+		int c =8;
 	}
 }
