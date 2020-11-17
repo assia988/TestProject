@@ -7,6 +7,5 @@ public class test2 {
 		int a =3;
 		int b =2;
 		int c =8;
-		int d=2;
 	}
 }
